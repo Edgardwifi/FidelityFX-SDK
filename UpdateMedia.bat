@@ -1,4 +1,4 @@
-@echo off
+@echo On
 
 :: Known bundle SHA256 hash to attempt to download
 SET default_bundle_sha256=48f8b87302950208cfea7619a03235a448b913d4e4836422714696192ae1511f

@@ -57,7 +57,7 @@ AllowShortFunctionsOnASingleLine: false
 AllowShortIfStatementsOnASingleLine: false
 AllowShortLoopsOnASingleLine: false
 AllowShortBlocksOnASingleLine: false
-ReflowComments: false
+ReflowComments: true
 SortIncludes: false
 SortUsingDeclarations: false
 BinPackArguments: false

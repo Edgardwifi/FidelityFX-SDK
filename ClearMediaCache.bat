@@ -1,4 +1,4 @@
-@echo off
+@echo On
 
 SET ffx_sdk_root=%~dp0
 
