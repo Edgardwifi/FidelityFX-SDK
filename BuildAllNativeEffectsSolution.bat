@@ -1,4 +1,4 @@
-@echo off
+@echo On
 
 :: Start by building the backend SDK
 echo Building native backend
