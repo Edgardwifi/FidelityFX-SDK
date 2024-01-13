@@ -3,12 +3,12 @@
 
         "Validation": {
             "CpuValidationLayerEnabled": false,
-            "GpuValidationLayerEnabled": false
+            "GpuValidationLayerEnabled": true
         },
 
         "FeatureSupport": {
-            "VRSTier1": false,
-            "VRSTier2": false,
+            "VRSTier1": true,
+            "VRSTier2": true,
             "RT1.0": false,
             "RT1.1": false,
             "FP16": false,
@@ -18,7 +18,7 @@
         "Presentation": {
             "BackBufferCount": 3,
             "Vsync": true,
-            "Fullscreen": false,
+            "Fullscreen": true,
             "Width": 2560,
             "Height": 1440,
             "Mode": "DISPLAYMODE_HDR10_2084"
@@ -65,7 +65,7 @@
         },
 
         "DebugOptions": {
-            "DevelopmentMode": false,
+            "DevelopmentMode": true,
             "DebugShaders": false,
             "EnableRenderDocCapture": false,
             "EnablePixCapture": false
